@@ -1,5 +1,11 @@
 # Challenge Api P5
 
+Requerimientos:
+    -postgresql 
+
+### Base de datos
+Crea tu base de datos y configurala en src/config/db.js
+
 ### Instalación
 
 Clonar el repositorio
